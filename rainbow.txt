@@ -5,3 +5,4 @@ Orange
 Purple
 Skyblue
 Black
+These are the color of rainbow 
