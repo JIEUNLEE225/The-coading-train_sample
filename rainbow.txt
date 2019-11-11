@@ -1,0 +1,7 @@
+Green
+Yellow
+Red
+Orange
+Purple
+Skyblue
+Black
